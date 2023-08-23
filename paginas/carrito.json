@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mouse pad gamer XL",
+        "informacion": "aaaaaaaaaaaaa"
+    },
+    {
+        "id": 2,
+        "nombre": "PC gamer de alta gama",
+        "informacion": "aaaaaaaaaaaaaa"
+    },
+    {
+        "id": 3,
+        "nombre": "Teclado mecanico dragon",
+        "informacion": "aaaaaaaaaaa"
+    },
+    {
+        "id": 4,
+        "nombre": "Mouse logitech 3500dpi",
+        "informacion": "aaaaaaaaaaaaaaaaa"
+    },
+    {
+        "id": 5,
+        "nombre": "Tarjeta Grafica RTX3090",
+        "informacion": "aaaaaaaaaaaaa"
+    },
+    {
+        "id": 6,
+        "nombre": "Monitor 24 pulgadas de 144z",
+        "informacion": "aaaaaaaaaaaaaa"
+    }
+]

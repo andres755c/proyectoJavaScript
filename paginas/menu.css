@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    text-decoration: underline 2px;
+    margin: 10px;
+}
+
+h3{
+    text-decoration: underline 2px;
+    margin: 10px;
+}
+
+label{
+    text-decoration: underline 2px;
+    margin: 10px;
+}
+
+#botonEnviar{
+    background-color: white;
+    color: black;
+    margin: 10px;
+}
+
+.listaDeProductos{
+    background-color: white;
+    color: black;
+    margin: 10px;
+}
+
+.btn-modoOscuro{
+    background-color: black;
+    color: white;
+}
+
+.btn-modoClaro{
+    background-color: white;
+    color: black;
+}

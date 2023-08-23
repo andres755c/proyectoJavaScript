@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header{
+    height: 200px;
+    background-color: blue;
+}
+
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer{
+    height: 200px;
+    background-color: red;
+}
+
+.InicioDeSesion{
+    display: grid;
+    grid-template-columns: repeat(3, 512px);
+    grid-template-rows: 1;   
+}
+
+form{
+    border: 5px white solid;
+    height: 180px;
+    width: 300px;
+    font-size: 20px;
+    grid-column: 2/3;
+    grid-row: 1/1;
+
+}
+
+h1{
+    text-decoration: underline 2px;
+    margin: 10px;
+    color: red;
+}
+
+label{
+    text-decoration: underline 2px;
+    margin: 10px;
+}
+
+#botonEnviar{
+    background-color: white;
+    color: black;
+    margin: 10px;
+}
+
+.cuadro{
+    height: 30px;
+    font-size: 22px;
+    margin: 40px;
+    margin-top: 10px;
+}
+
+.cuadro:hover{
+    transition: 1.4s;
+    transform: scale(1.1) rotate(360deg);
+}
+
+.botonDeIniciar{
+    color: white;
+}
+
+.botonDeIniciar:hover{
+    color: blue;
+    transition: 2s;
+    text-decoration: none;
+
+}
